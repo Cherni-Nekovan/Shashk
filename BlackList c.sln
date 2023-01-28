@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackList c", "BlackList c\BlackList c.csproj", "{D7CE1D8E-F8C5-4583-8E97-DDA8476B36A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7CE1D8E-F8C5-4583-8E97-DDA8476B36A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7CE1D8E-F8C5-4583-8E97-DDA8476B36A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7CE1D8E-F8C5-4583-8E97-DDA8476B36A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7CE1D8E-F8C5-4583-8E97-DDA8476B36A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7F95701-59F7-4C4A-B6F0-2C80508F981E}
+	EndGlobalSection
+EndGlobal
